@@ -7,7 +7,7 @@ import java.sql.Statement;
 public class InsultGenerator {
 	public String generateInsult() {
 		String vowels = "AEIOU";
-		String article = "an"; Banana!!!
+		String article = "an";
 		String theInsult = "";
 
 		try {
